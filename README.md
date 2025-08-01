@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Stefinkunii
 - 👀 I’m interested gaming and coding languages (phython etc) 
-- 🌱 I’m currently learning Phython and web desinging web3.0 and much more related to AI
--  Currently at beginner in coding
+- 🌱 I’m currently learning Phython and much more related to AI
+-  Currently a beginner in coding
   
 
 <!---
