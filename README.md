@@ -1,5 +1,5 @@
 
-I'm passionate about Artificial Intelligence and Machine Learning. I'm currently working on real-world projects like a **Diabetes Prediction System using Flask & ML, and I'm continuously learning and growing through hands-on coding.
+I'm passionate about Artificial Intelligence and Machine Learning. I'm currently working on real-world projects, such as a Diabetes Prediction System using Flask & ML, and I'm continuously learning and growing through hands-on coding.
 
 ## 🔧 Tech Stack
 - Languages: Python, C++
@@ -7,7 +7,7 @@ I'm passionate about Artificial Intelligence and Machine Learning. I'm currently
 - Tools: Git, Jupyter Notebook, Flask, HTML/CSS
 
 ## 📌 Projects
-- [Diabetes Prediction System](https://github.com/Stefinkunii/diabetes-prediction)  
+- [Diabetes Prediction System](https://github.com/Stefinkunii/diabetes-prediction-system)  
 - More coming soon...
 
 ## 🌱 Currently Learning
